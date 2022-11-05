@@ -1,5 +1,5 @@
 # Blocking Minecraft domains
 
-0.0.0.0 *.minecraft.net
+0.0.0.0 (^|\.)minecraft\.net
 0.0.0.0 minecrafteduservices.com
 0.0.0.0 minecraft-services.net
