@@ -1,5 +1,11 @@
 # Blocking Minecraft domains
 
-0.0.0.0 minecraft.net
-0.0.0.0 minecrafteduservices.com
-0.0.0.0 minecraft-services.net
+#0.0.0.0 minecraft.net
+#0.0.0.0 minecrafteduservices.com
+#0.0.0.0 minecraft-services.net
+
+# Regex blacklist
+(^|\.)rbxcdn\.com
+(^|\.)rbxtrk\.com
+(^|\.)roblox\.com
+(^|\.)roblox\.plus
