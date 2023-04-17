@@ -5,7 +5,6 @@
 #0.0.0.0 minecraft-services.net
 
 # Regex blacklist
-(^|\.)rbxcdn\.com
-(^|\.)rbxtrk\.com
-(^|\.)roblox\.com
-(^|\.)roblox\.plus
+(^|\.)minecraft\.net
+(^|\.)minecrafteduservices\.com
+(^|\.)minecraft-services\.net
